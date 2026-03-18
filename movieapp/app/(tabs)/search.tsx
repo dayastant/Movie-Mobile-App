@@ -1,0 +1,12 @@
+import { View, Text } from "react-native";
+
+
+const Search = () => {
+    return (
+        <View>
+            <Text>Profile</Text>
+        </View>
+    );
+};
+
+export default Search;
